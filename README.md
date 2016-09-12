@@ -4,7 +4,8 @@ This is a demonstration of a ticketing system utilizing the following technologi
 
 A live version is (mostly) available at the following link- pending developmental changes requiring restarts and edits:
 
-http://54.165.186.45
+http://54.165.186.45:5000
+-- I didn't feel like running it as root or similar for :80 and would've added a redirect or similar but it seemed trivial for this demo given additional work required. 
 
 
 -- Flask web server
